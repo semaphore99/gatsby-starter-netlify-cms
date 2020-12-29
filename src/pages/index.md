@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Dixon Deng
-image: /img/home-jumbotron.jpg
+image: /img/img_20190125_110655_with_portrait.jpg
 heading: "Leading "
 subheading: Bringing
 mainpitch:
