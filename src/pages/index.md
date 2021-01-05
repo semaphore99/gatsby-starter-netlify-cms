@@ -34,8 +34,10 @@ intro:
       text: >
         I'm a believer in continuous learning and the value in giving those
         around me the tools and opportunities to learn. 
-    - text: In my spare time, I indulge in my other passion of photography.
+    - text: >
+        In my spare time, I indulge in my other passion of photography.
       image: /img/iconfinder_20-blue_camera-photo-gallery_4488790.png
+      link: <a href="www.tph.com">thingy</a>
   heading: Intro Heading
   description: |-
     Intro description
