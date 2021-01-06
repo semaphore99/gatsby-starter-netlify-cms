@@ -90,7 +90,7 @@ export const IndexPageTemplate = ({
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="https://photos.dixondeng.com">
-                      Photograpy Portfolio
+                      Photography Portfolio
                     </Link>
                   </div>
                 </div>

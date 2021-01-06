@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import portrait from '../img/linkedin_portrait.jpg'
 
 export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
@@ -36,6 +37,12 @@ const AboutPage = ({ data }) => {
 
   return (
     <Layout>
+              <div className="content has-text-centered">
+          <img
+            src={portrait}
+            alt="Dixon Deng"
+          />
+        </div>
       <AboutPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
